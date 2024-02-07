@@ -1,0 +1,6 @@
+com\narainox\inventoryservice\repository\InventoryRepository.class
+com\narainox\inventoryservice\controller\InventoryController.class
+com\narainox\inventoryservice\InventoryServiceApplication.class
+com\narainox\inventoryservice\model\Inventory$InventoryBuilder.class
+com\narainox\inventoryservice\model\Inventory.class
+com\narainox\inventoryservice\service\InventoryService.class

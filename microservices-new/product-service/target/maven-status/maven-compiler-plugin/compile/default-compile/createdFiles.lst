@@ -1,0 +1,7 @@
+com\narainox\productservice\ProductServiceApplication.class
+com\narainox\productservice\dto\ProductRequest.class
+com\narainox\productservice\controller\productController.class
+com\narainox\productservice\repository\ProductRepository.class
+com\narainox\productservice\dto\ProductResponse.class
+com\narainox\productservice\model\Product.class
+com\narainox\productservice\service\ProductService.class
